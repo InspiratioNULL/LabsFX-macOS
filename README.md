@@ -1,4 +1,7 @@
 ### Google Labs FX ( ImageFX, MusicFX, and Whisk ) for macOS
+### This **Still supports downloading old library items, use it before it to acquire your old items while you still can!(verified Jun22 2026)**
+#### Version 2 has dropped, includes improved login flow
+
 #### Supports Generating, and fetching your entire library at once.
 #### ImageFX and Whisk are going away soon and to be merged into "Flow", "LabsFX" will continue to function, and there will be no interrupted functionality as the upcoming version already supports Flow.
 #### Use LabsFX, exclusively on macOS, to download your entire library instantly. 
